@@ -10,4 +10,4 @@ AppRegistry.registerComponent(appName, () => App);
 
 
 // Name : Laika Laika
-// Name : 201370034
+// Roll : 201370034
