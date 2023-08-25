@@ -9,5 +9,5 @@ import {name as appName} from './app.json';
 AppRegistry.registerComponent(appName, () => App);
 
 
-// Name : Laika Laika
+// Name : Laika
 // Roll : 201370034
